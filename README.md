@@ -6,3 +6,6 @@
    <img width="1280" height="720" alt="C/Java" src="https://github.com/EDProgrammerist/Programming-Activities/blob/master/Logo.jpg?raw=true" />
 
 </a>
+
+<h3 align="center">Data Structure And Algorithms</h3>
+</div>
